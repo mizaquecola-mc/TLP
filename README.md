@@ -59,3 +59,13 @@ para n de 1 ate 12 faca
   escreva (2, "x", n, "=", 2*n)
 fimpara
   fimalgoritmo
+
+algoritmo "helloworld"
+  var n,i : inteiro
+inicio
+n<-0
+para i de 1 ate 100 faca 
+n <-n+i
+fimpara 
+escreva ("Soma total:  ",n)
+fimalgoritmo
