@@ -31,3 +31,15 @@ enquanto n<1000 faça
 n<-n+1
 fimenquanto
 fimalgoritmo
+
+algoritmo "Mostrar os números de 100 a 1"
+ var n:inteiro
+inicio 
+n<- 100
+repita 
+escreva (n)
+fimse
+n<- n-1
+ate n<=0
+fimpara 
+fimalgoritmo 
