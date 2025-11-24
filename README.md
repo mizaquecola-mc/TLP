@@ -10,3 +10,13 @@ enquanto (d<=12) faca
   d<-+d
 fimenquanto
   fimalgoritmo
+
+algoritmo "Contar até 100"
+  var n : inteiro
+ inicio
+  n <-1
+ enquanto n<=100 faca
+   escreva (n)
+  n<- n+1
+fimenquanto 
+  fimalgoritmo
