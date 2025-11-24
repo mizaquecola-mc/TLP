@@ -20,3 +20,14 @@ algoritmo "Contar até 100"
   n<- n+1
 fimenquanto 
   fimalgoritmo
+
+Algoritmo "Ler números até ser verdadeira "
+var n: inteiro
+inicio
+n<-1
+leia(n)
+enquanto n<1000 faça
+  escreva(n)
+n<-n+1
+fimenquanto
+fimalgoritmo
