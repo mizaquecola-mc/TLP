@@ -51,3 +51,11 @@ para n de 1 ate 100 faça
    escreva (n)
 fimpara
  fimalgoritmo
+
+algoritmo "tabuada dos 2"
+  var  n: inteiro
+ inicio
+para n de 1 ate 12 faca 
+  escreva (2, "x", n, "=", 2*n)
+fimpara
+  fimalgoritmo
