@@ -43,3 +43,11 @@ n<- n-1
 ate n<=0
 fimpara 
 fimalgoritmo 
+
+algoritmo "contar de 1 a 100"
+  var n: inteiro
+ inicio
+para n de 1 ate 100 faça
+   escreva (n)
+fimpara
+ fimalgoritmo
