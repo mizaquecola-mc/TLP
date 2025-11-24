@@ -60,7 +60,7 @@ para n de 1 ate 12 faca
 fimpara
   fimalgoritmo
 
-algoritmo "helloworld"
+algoritmo "Somar os números de 1 a 100"
   var n,i : inteiro
 inicio
 n<-0
