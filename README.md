@@ -69,3 +69,13 @@ n <-n+i
 fimpara 
 escreva ("Soma total:  ",n)
 fimalgoritmo
+
+algoritmo "Somar os números de 1 a 10"
+  var n,i : inteiro
+inicio
+n<-0
+para i de 1 ate 10 faca 
+n <-n+i
+fimpara 
+escreva ("Soma total:  ",n)
+fimalgoritmo
